@@ -46,5 +46,3 @@ Optimized Ratio %	51%	51%	62%
 ![image](https://user-images.githubusercontent.com/25412736/187079725-718b51e4-c90c-4971-a72b-3583f4aa570e.png)
 
 <br>
-
-
