@@ -28,15 +28,12 @@ Sr. No.	Portion Name	Portion Ratio	Image Count
 Configuration for Proposed Model
 <br>
 
-Sr. No.
-	Name of Model	Total
-#	Trainable
-#	Non-Trainable
-#
-1	Stock Unet	1213953	1211649	2304
-2	Proposed	2360321	2356609	3712
-Difference	1,146,368	1,144,960	1408
-Optimized Ratio %	51%	51%	62%
+|	Sr. No.		|	Name of Model	|	Total	|	Trainable	|	Non-Trainable	|
+|	-------		|	-------------	|	-----	|	---------	|	-------------	|
+|	1		|	Stock Unet	|	1213953 |	1211649		|	2304		|
+|	2		|	Proposed	|	2360321	|	2356609		|	3712		|
+|	Difference				|	1146368	|	1144960		|	1408		|
+|	Optimized Ratio %			|	51%	|	51%		|	62%		|
 
 
 <br>
